@@ -1,3 +1,7 @@
+Modified to include setup.py 
+
+---
+
 # PyTorch NEAT
 
 ## Background
