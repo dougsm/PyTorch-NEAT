@@ -1,4 +1,8 @@
-Modified to include setup.py 
+Modified to include setup.py, install with
+
+```
+python setup.py install
+``` 
 
 ---
 
