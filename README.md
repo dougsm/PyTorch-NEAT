@@ -1,8 +1,16 @@
 Modified to include setup.py, install with
 
 ```
+git clone git@github.com:dougsm/PyTorch-NEAT.git
+cd PyTorch-NEAT
 python setup.py install
 ``` 
+
+OR
+
+```
+pip install git+git://github.com/dougsm/PyTorch-NEAT.git
+```
 
 ---
 
